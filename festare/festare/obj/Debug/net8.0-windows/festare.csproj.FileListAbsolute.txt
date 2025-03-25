@@ -1,0 +1,16 @@
+C:\Users\william.hsoga\source\repos\festare\festare\bin\Debug\net8.0-windows\festare.exe
+C:\Users\william.hsoga\source\repos\festare\festare\bin\Debug\net8.0-windows\festare.deps.json
+C:\Users\william.hsoga\source\repos\festare\festare\bin\Debug\net8.0-windows\festare.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\festare\festare\bin\Debug\net8.0-windows\festare.dll
+C:\Users\william.hsoga\source\repos\festare\festare\bin\Debug\net8.0-windows\festare.pdb
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.Form1.resources
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.csproj.GenerateResource.cache
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.dll
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\refint\festare.dll
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.pdb
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\festare.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\festare\festare\obj\Debug\net8.0-windows\ref\festare.dll
