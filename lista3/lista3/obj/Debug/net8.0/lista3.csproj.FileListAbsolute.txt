@@ -1,0 +1,14 @@
+C:\Users\william.hsoga\source\repos\lista3\lista3\bin\Debug\net8.0\lista3.exe
+C:\Users\william.hsoga\source\repos\lista3\lista3\bin\Debug\net8.0\lista3.deps.json
+C:\Users\william.hsoga\source\repos\lista3\lista3\bin\Debug\net8.0\lista3.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\lista3\lista3\bin\Debug\net8.0\lista3.dll
+C:\Users\william.hsoga\source\repos\lista3\lista3\bin\Debug\net8.0\lista3.pdb
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\lista3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\lista3.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\lista3.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\lista3.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\lista3.dll
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\refint\lista3.dll
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\lista3.pdb
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\lista3.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\lista3\lista3\obj\Debug\net8.0\ref\lista3.dll
