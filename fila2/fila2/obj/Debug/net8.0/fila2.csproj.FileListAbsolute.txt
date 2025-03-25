@@ -1,0 +1,14 @@
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\fila2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\fila2.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\fila2.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\fila2.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\fila2\fila2\bin\Debug\net8.0\fila2.exe
+C:\Users\william.hsoga\source\repos\fila2\fila2\bin\Debug\net8.0\fila2.deps.json
+C:\Users\william.hsoga\source\repos\fila2\fila2\bin\Debug\net8.0\fila2.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\fila2\fila2\bin\Debug\net8.0\fila2.dll
+C:\Users\william.hsoga\source\repos\fila2\fila2\bin\Debug\net8.0\fila2.pdb
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\fila2.dll
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\refint\fila2.dll
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\fila2.pdb
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\fila2.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\fila2\fila2\obj\Debug\net8.0\ref\fila2.dll
