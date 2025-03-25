@@ -1,0 +1,14 @@
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\bin\Debug\net8.0\PilhaNumeros.exe
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\bin\Debug\net8.0\PilhaNumeros.deps.json
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\bin\Debug\net8.0\PilhaNumeros.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\bin\Debug\net8.0\PilhaNumeros.dll
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\bin\Debug\net8.0\PilhaNumeros.pdb
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\PilhaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\PilhaNumeros.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\PilhaNumeros.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\PilhaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\PilhaNumeros.dll
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\refint\PilhaNumeros.dll
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\PilhaNumeros.pdb
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\PilhaNumeros.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\PilhaNumeros\PilhaNumeros\obj\Debug\net8.0\ref\PilhaNumeros.dll
