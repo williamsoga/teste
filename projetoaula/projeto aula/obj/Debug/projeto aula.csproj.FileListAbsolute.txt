@@ -1,0 +1,10 @@
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\bin\Debug\projeto aula.exe.config
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\bin\Debug\projeto aula.exe
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\bin\Debug\projeto aula.pdb
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\obj\Debug\projeto aula.csproj.AssemblyReference.cache
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\obj\Debug\projeto_aula.Form1.resources
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\obj\Debug\projeto_aula.Properties.Resources.resources
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\obj\Debug\projeto aula.csproj.GenerateResource.cache
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\obj\Debug\projeto aula.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\obj\Debug\projeto aula.exe
+C:\Users\william.hsoga\source\repos\projeto aula\projeto aula\obj\Debug\projeto aula.pdb
