@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\william.hsoga\\source\\repos\\pilha2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32DAE7BB-C043-4EAD-B480-3320EE9EAEF6}|pilha2\\pilha2.csproj|c:\\users\\william.hsoga\\source\\repos\\pilha2\\pilha2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DAE7BB-C043-4EAD-B480-3320EE9EAEF6}|pilha2\\pilha2.csproj|solutionrelative:pilha2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\william.hsoga\\source\\repos\\pilha2\\pilha2\\Program.cs",
+              "RelativeDocumentMoniker": "pilha2\\Program.cs",
+              "ToolTip": "C:\\Users\\william.hsoga\\source\\repos\\pilha2\\pilha2\\Program.cs",
+              "RelativeToolTip": "pilha2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:06:01.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

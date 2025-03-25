@@ -1,0 +1,14 @@
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\bin\Debug\net8.0\pilha2.exe
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\bin\Debug\net8.0\pilha2.deps.json
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\bin\Debug\net8.0\pilha2.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\bin\Debug\net8.0\pilha2.dll
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\bin\Debug\net8.0\pilha2.pdb
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\pilha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\pilha2.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\pilha2.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\pilha2.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\pilha2.dll
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\refint\pilha2.dll
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\pilha2.pdb
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\pilha2.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\pilha2\pilha2\obj\Debug\net8.0\ref\pilha2.dll
