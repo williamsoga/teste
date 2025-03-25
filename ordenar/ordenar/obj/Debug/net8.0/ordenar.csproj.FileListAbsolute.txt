@@ -1,0 +1,14 @@
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ordenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ordenar.AssemblyInfoInputs.cache
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ordenar.AssemblyInfo.cs
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ordenar.csproj.CoreCompileInputs.cache
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\bin\Debug\net8.0\ordenar.exe
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\bin\Debug\net8.0\ordenar.deps.json
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\bin\Debug\net8.0\ordenar.runtimeconfig.json
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\bin\Debug\net8.0\ordenar.dll
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\bin\Debug\net8.0\ordenar.pdb
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ordenar.dll
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\refint\ordenar.dll
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ordenar.pdb
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ordenar.genruntimeconfig.cache
+C:\Users\william.hsoga\source\repos\ordenar\ordenar\obj\Debug\net8.0\ref\ordenar.dll
